@@ -1,2 +1,2 @@
 # Thesis-on-Count-Min-Sketch
-My Thesis on the data structure Count-Min Sketch and it's applications.
+In this thesis, we are concerned with the maintenance of huge datasets of numerical data, in a data structure without the usage of large amount of storage space. Specifically, we will analyze the data structure Count-Min Sketch which stores sublinear approximations of our datasets. Count-Min Sketch supports the efficient response to several types of queries, such as Point Query and Range Query, guaranteeing good estimations of our data. In this thesis, we will explain the data structure’s function and provide experimental analysis of its’ efficacy.
